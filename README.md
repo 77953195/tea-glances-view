@@ -1,2 +1,2 @@
 # tea-glances-view
-this is view for tea glacnes
+this is view for tea glance
